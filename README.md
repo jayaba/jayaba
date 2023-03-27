@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jayaba
-- 👀 I’m interested in life, and everything
+- 👀 I’m interested in backend engineering and mobile development
 - 🌱 I’m currently learning Spring boot / Flutter
 - 💞️ I’m looking to collaborate on team working
 - 📫 How to reach me erangajayaba0@gmail.com
